@@ -1,0 +1,43 @@
+# 📝 Suspicious Extensions Report
+
+**Date:** 02/10/2025  
+**Browser Checked:** Google Chrome 
+
+---
+
+## 🔎 Extensions Reviewed
+1. **Grammarly** – Trusted (well-known, verified developer, useful)  
+2. **uBlock Origin** – Trusted (open-source, privacy-focused, strong community support)  
+3. **Google Docs Offline** – Trusted (official Google extension)  
+4. **PDF Converter Pro** – **Suspicious** (unknown developer, requested excessive permissions: "Read and change all your data on all websites")  
+5. **Shopping Assistant Lite** – **Suspicious** (installed without recall, injected product ads, low reviews)  
+
+---
+
+## 🚫 Extensions Removed
+1. **PDF Converter Pro**  
+   - **Publisher/ID:** Unverified developer, random ID string.  
+   - **Reason:** Excessive permissions, unnecessary (system already has PDF reader).  
+
+2. **Shopping Assistant Lite**  
+   - **Publisher/ID:** Unknown developer, poor rating on Chrome Web Store.  
+   - **Reason:** Displayed product ads, slowed down browser, unnecessary.  
+
+---
+
+## ✅ Post-Removal Steps
+- Disabled both suspicious extensions first, then removed them.  
+- Restarted Chrome browser.  
+- Cleared browsing data (cache, cookies).  
+- Verified default search engine → Google.  
+- Ran Windows Defender full scan → No additional threats detected.  
+- Changed passwords for email & banking accounts as a precaution.  
+
+---
+
+## 📌 Notes
+- Performance improved: Chrome startup time reduced, fewer random popups.  
+- Learned that unknown PDF converters and shopping assistants are common **adware-style extensions**.  
+- In future, will only install extensions from verified developers (Google, Mozilla, reputable open-source projects).  
+
+---
